@@ -50,4 +50,4 @@
 
 ---
 
-⭐ [내 모든 프로젝트 보러 가기](https://github.com/ssuni00?tab=repositories)
+⭐ [모든 프로젝트 보러 가기](https://github.com/ssuni00?tab=repositories)
